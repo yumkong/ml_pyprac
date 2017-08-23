@@ -1,0 +1,10 @@
+>>> import kNN
+>>> group, labels = kNN.createDataset()
+>>> group
+array([[ 1. ,  1.1],
+       [ 1. ,  1. ],
+       [ 0. ,  0. ],
+       [ 0. ,  0.1]])
+>>> labels
+['A', 'A', 'B', 'B']
+
